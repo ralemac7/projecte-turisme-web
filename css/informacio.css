@@ -1,0 +1,29 @@
+.turisme {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    margin: 0 400px;
+}
+
+.turisme h1 {
+    color: var(--color-main);
+}
+
+.turisme h2 {
+    color: var(--color-secondary);
+}
+
+.turisme p {
+    font-size: 20px;
+}
+
+.carousel {
+    width: 100%;
+    overflow: hidden;
+}
+
+.carousel-images {
+    display: flex;
+    width: 310%;
+    transition: transform 0.5s ease-in-out;
+}
