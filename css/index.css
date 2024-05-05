@@ -27,3 +27,22 @@
   .turisme p {
     font-size: 20px;
   }
+
+  .boto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 865px;
+    border-radius: 10px;
+    color: var(--color-tertiary) !important;
+    background-color: var(--color-main)
+  }
+  
+  .boto:hover {
+    transition: all 0.3s ease;
+    color: var(--color-tertiary) !important;
+    background-color: var(--color-main-hover);
+  }
