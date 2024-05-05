@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
+
+:root {
+  --color-main: #f70759;
+  --color-secondary: #1c1c1c;
+  --color-tertiary: #ffff;
+  --color-main-hover: #b8003d;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Montserrat', 'Lucida Sans', 'Lucida Sans Regular', Geneva, Verdana, sans-serif;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: var(--color-main);
+}
+
+a:hover {
+  text-decoration: none;
+  color: var(--color-main-hover);
+}

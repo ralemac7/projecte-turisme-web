@@ -1,0 +1,18 @@
+.contacte {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    margin: 0 400px;
+}
+
+.contacte h1 {
+    color: var(--color-main);
+}
+
+.contacte h2 {
+    color: var(--color-secondary);
+}
+
+.contacte p {
+    font-size: 16px;
+}
