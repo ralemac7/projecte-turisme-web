@@ -12,4 +12,3 @@ Totes les imatges són d'ús lliure i els teléfons o adreçes de contacte no s�
 ## Més informacions
 
 Imatges descarregades d'[Unsplash](https://unsplash.com/), d'ús lliure.
-Aquest lloc web també es pot visitar a [turisme.ralemac.dev](https://turisme.ralemac.dev)
